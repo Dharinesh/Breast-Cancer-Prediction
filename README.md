@@ -21,7 +21,7 @@ Breast cancer is one of the most common cancers among women worldwide. Early det
 
 ## Dataset
 
-The dataset used in this project is sourced from [[Kaggle-Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)]. It contains a total of [insert number of instances] instances and [insert number of features] features. Each instance represents a breast cancer biopsy, and the features include measurements of tumor characteristics obtained from diagnostic images.
+The dataset used in this project is sourced from [[Kaggle-Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)]. It contains a total of 8670 instances and 32 features. Each instance represents a breast cancer biopsy, and the features include measurements of tumor characteristics obtained from diagnostic images.
 
 ## Approach
 
@@ -44,7 +44,7 @@ The dataset used in this project is sourced from [[Kaggle-Dataset](https://www.k
 
 ## Evaluation
 
-The performance of each model was evaluated using accuracy, precision, recall, and F1-score metrics. The results indicated that [insert best-performing model] achieved the highest accuracy of [insert accuracy value] on the test dataset.
+The performance of each model was evaluated using accuracy, precision, recall, and F1-score metrics. The results indicated that Gaussian NaiveBayes achieved the highest accuracy of 97% on the test dataset.
 
 ## Custom Input
 
@@ -58,7 +58,7 @@ Machine learning models show promise in predicting breast cancer diagnosis based
 
 To use this project, follow these steps:
 1. Clone the repository to your local machine.
-2. Install the required dependencies (see Dependencies section).
+2. install requirements.txt
 3. Run the main script to train the models and evaluate their performance.
 4. Use the provided functionality to make predictions on custom input data.
 
