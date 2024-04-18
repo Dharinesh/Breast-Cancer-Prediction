@@ -74,4 +74,4 @@ To use this project, follow these steps:
 
 ## License
 
-[Insert license information here, if applicable]
+GNU GENERAL PUBLIC LICENSE
